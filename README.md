@@ -2,7 +2,7 @@
 Estudante de Analise e Desenvolvimento de Sistemas. Atualmente especialista em Suporte Técnico, já trabalhei com Varejo, Educação, Finanças 
 e por ai vai...
 
-- 👨‍💻 **Apaixonado por tecnologia** [MCPlus ](https://mcplusit.com/)
+- 👨‍💻 **Apaixonado por tecnologia** 
 - 🎼 **Apaixonado por música**
 - 🖥️ **Atualmente focado em** :
 
