@@ -20,14 +20,14 @@ Atualmente, estou envolvido em projetos como:
 - Desenvolvimento de relatórios e automação de tarefas relacionadas à infraestrutura de TI.
 
 ### 📊 Estatísticas no GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/seu-usuario/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iFallenHu&layout=compact)](https://github.com/[iFallenHu](https://github.com/iFallenHu)/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iFallenHu)](https://git.io/streak-stats)
 
 ### 📈 Contribuições e Atividades:
-[![Commits](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario)](https://github.com/seu-usuario/github-readme-activity-graph)
+[![Commits](https://github-readme-activity-graph.vercel.app/graph?username=iFallenHu)](https://github.com/iFallenHu/github-readme-activity-graph)
 
 ### 🔗 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iFallenHu/)
           
           
 
